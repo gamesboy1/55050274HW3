@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 export function addCounter(val) {
   return {
     type: "ADD",
