@@ -15,7 +15,7 @@ class App extends Component {
             <img src={logo} className="App-logo" alt="logo" />
             <ul>
               <li><NavLink to="/" activeClassName="active">Counter</NavLink></li>
-              <li><NavLink to="/ShowCounter" activeClassName="active">Fetch</NavLink></li>
+              <li><NavLink to="/ShowCounter" activeClassName="active">ShowCounter</NavLink></li>
             </ul>
           </div>
           <div className="App-intro">
